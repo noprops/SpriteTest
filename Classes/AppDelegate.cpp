@@ -56,7 +56,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     director->setProjection(Director::Projection::_2D);
     director->setDepthTest(false);
     
-    Image::setPVRImagesHavePremultipliedAlpha(true);
+    //Image::setPVRImagesHavePremultipliedAlpha(true);
     
     // Set the design resolution
     Size frameSize = glview->getFrameSize();

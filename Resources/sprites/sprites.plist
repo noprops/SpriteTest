@@ -3981,13 +3981,13 @@
             <key>pixelFormat</key>
             <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
-            <true/>
+            <false/>
             <key>realTextureFileName</key>
             <string>sprites.pvr.ccz</string>
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:358d166e387ee1d7513883e11a0a2ce1:1f3fb8857fac23f2cfc87cb8ddb62896:65190eda994a633aa977088176b54359$</string>
+            <string>$TexturePacker:SmartUpdate:df6bd3481c7012d6814cd4c49fa60972:1f3fb8857fac23f2cfc87cb8ddb62896:65190eda994a633aa977088176b54359$</string>
             <key>textureFileName</key>
             <string>sprites.pvr.ccz</string>
         </dict>
