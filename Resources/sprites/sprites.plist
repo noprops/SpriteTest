@@ -1,0 +1,3995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>RRGPlayer/asleep/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,28}</string>
+                <key>spriteSize</key>
+                <string>{106,112}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,200}</string>
+                <key>textureRect</key>
+                <string>{{341,1574},{106,112}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>154 128 48 128 69 17 126 16</string>
+                <key>verticesUV</key>
+                <string>447 1686 341 1686 362 1575 419 1574</string>
+            </dict>
+            <key>RRGPlayer/attack/east/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,36}</string>
+                <key>spriteSize</key>
+                <string>{62,145}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{241,1812},{62,145}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>149 13 149 135 128 154 87 145 93 9</string>
+                <key>verticesUV</key>
+                <string>303 1816 303 1938 282 1957 241 1948 247 1812</string>
+            </dict>
+            <key>RRGPlayer/attack/east/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,36.5}</string>
+                <key>spriteSize</key>
+                <string>{73,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{175,1716},{73,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>154 14 161 94 143 153 88 152 99 9</string>
+                <key>verticesUV</key>
+                <string>241 1721 248 1801 230 1860 175 1859 186 1716</string>
+            </dict>
+            <key>RRGPlayer/attack/north/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,39.5}</string>
+                <key>spriteSize</key>
+                <string>{109,136}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{198,543},{109,136}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 1 5 7 4 5 1 1 2 3 4 1 3 0 1 7</string>
+                <key>vertices</key>
+                <string>169 100 141 108 141 146 96 144 60 99 89 56 88 10 141 10</string>
+                <key>verticesUV</key>
+                <string>307 633 279 641 279 679 234 677 198 632 227 589 226 543 279 543</string>
+            </dict>
+            <key>RRGPlayer/attack/north/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3.5,39.5}</string>
+                <key>spriteSize</key>
+                <string>{96,134}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{189,991},{96,134}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 1 3 4 4 5 1 1 2 3 0 1 5 0 5 7</string>
+                <key>vertices</key>
+                <string>162 69 147 100 143 144 88 145 66 100 87 52 87 11 143 11</string>
+                <key>verticesUV</key>
+                <string>285 1049 270 1080 266 1124 211 1125 189 1080 210 1032 210 991 266 991</string>
+            </dict>
+            <key>RRGPlayer/attack/northeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,35.5}</string>
+                <key>spriteSize</key>
+                <string>{96,148}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,795},{96,148}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 4 2 3 4 5 2 2 5 7 0 1 2 0 2 7</string>
+                <key>vertices</key>
+                <string>155 18 172 110 143 119 142 156 100 143 76 99 84 17 120 8</string>
+                <key>verticesUV</key>
+                <string>80 805 97 897 68 906 67 943 25 930 1 886 9 804 45 795</string>
+            </dict>
+            <key>RRGPlayer/attack/northeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{14.5,38}</string>
+                <key>spriteSize</key>
+                <string>{112,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,371},{112,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 7 8 1 3 6 3 4 5 3 5 6 1 2 3 1 6 7 0 1 8</string>
+                <key>vertices</key>
+                <string>162 18 159 52 188 82 135 114 153 151 99 146 76 100 88 16 121 8</string>
+                <key>verticesUV</key>
+                <string>87 381 84 415 113 445 60 477 78 514 24 509 1 463 13 379 46 371</string>
+            </dict>
+            <key>RRGPlayer/attack/northwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,36}</string>
+                <key>spriteSize</key>
+                <string>{73,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{428,1394},{73,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>151 15 151 139 82 155 78 20 107 8</string>
+                <key>verticesUV</key>
+                <string>501 1401 501 1525 432 1541 428 1406 457 1394</string>
+            </dict>
+            <key>RRGPlayer/attack/northwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4,42}</string>
+                <key>spriteSize</key>
+                <string>{81,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{93,1741},{81,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 1 2 3 4 1 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>143 14 154 137 110 149 82 141 73 22 109 2</string>
+                <key>verticesUV</key>
+                <string>163 1753 174 1876 130 1888 102 1880 93 1761 129 1741</string>
+            </dict>
+            <key>RRGPlayer/attack/south/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,36}</string>
+                <key>spriteSize</key>
+                <string>{104,141}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{113,505},{104,141}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 3 1 2 3 0 1</string>
+                <key>vertices</key>
+                <string>168 104 140 147 99 152 64 100 90 52 90 12 141 11</string>
+                <key>verticesUV</key>
+                <string>217 598 189 641 148 646 113 594 139 546 139 506 190 505</string>
+            </dict>
+            <key>RRGPlayer/attack/south/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,33.5}</string>
+                <key>spriteSize</key>
+                <string>{98,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{355,717},{98,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 3 1 2 3 0 1</string>
+                <key>vertices</key>
+                <string>167 102 140 149 95 155 69 80 88 55 89 13 144 13</string>
+                <key>verticesUV</key>
+                <string>453 806 426 853 381 859 355 784 374 759 375 717 430 717</string>
+            </dict>
+            <key>RRGPlayer/attack/southeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,38}</string>
+                <key>spriteSize</key>
+                <string>{73,151}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{430,1101},{73,151}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>156 23 153 140 113 155 83 138 83 19 137 4</string>
+                <key>verticesUV</key>
+                <string>503 1120 500 1237 460 1252 430 1235 430 1116 484 1101</string>
+            </dict>
+            <key>RRGPlayer/attack/southeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,35}</string>
+                <key>spriteSize</key>
+                <string>{78,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{347,1140},{78,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 4 0 1 1 2 3 4 1 3</string>
+                <key>vertices</key>
+                <string>163 24 151 142 113 156 85 139 86 22 125 9</string>
+                <key>verticesUV</key>
+                <string>425 1155 413 1273 375 1287 347 1270 348 1153 387 1140</string>
+            </dict>
+            <key>RRGPlayer/attack/southwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6.5,40}</string>
+                <key>spriteSize</key>
+                <string>{104,139}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{268,630},{104,139}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 4 5 6 0 6 8 2 3 4 1 2 4 6 0 1 6 1 4</string>
+                <key>vertices</key>
+                <string>149 17 163 111 137 147 82 147 98 119 59 100 81 62 81 22 107 8</string>
+                <key>verticesUV</key>
+                <string>358 639 372 733 346 769 291 769 307 741 268 722 290 684 290 644 316 630</string>
+            </dict>
+            <key>RRGPlayer/attack/southwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-9,35.5}</string>
+                <key>spriteSize</key>
+                <string>{111,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{82,295},{111,150}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 2 3 4 1 2 4 0 1 4 0 5 6</string>
+                <key>vertices</key>
+                <string>145 17 164 114 139 144 95 157 86 118 53 85 85 7</string>
+                <key>verticesUV</key>
+                <string>174 305 193 402 168 432 124 445 115 406 82 373 114 295</string>
+            </dict>
+            <key>RRGPlayer/attack/west/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5,40}</string>
+                <key>spriteSize</key>
+                <string>{71,139}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{435,1537},{71,139}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 5 6 0 4 5 0 3 4 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>148 99 134 147 89 147 94 106 77 93 82 13 145 8</string>
+                <key>verticesUV</key>
+                <string>506 1628 492 1676 447 1676 452 1635 435 1622 440 1542 503 1537</string>
+            </dict>
+            <key>RRGPlayer/attack/west/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-18.5,42.5}</string>
+                <key>spriteSize</key>
+                <string>{94,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{378,431},{94,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 5 6 3 4 5 0 3 5 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>146 97 137 147 92 147 87 103 52 67 76 18 139 3</string>
+                <key>verticesUV</key>
+                <string>472 525 463 575 418 575 413 531 378 495 402 446 465 431</string>
+            </dict>
+            <key>RRGPlayer/die/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1}</string>
+                <key>spriteSize</key>
+                <string>{51,55}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,75}</string>
+                <key>textureRect</key>
+                <string>{{279,1},{51,55}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>63 66 12 66 12 11 63 11</string>
+                <key>verticesUV</key>
+                <string>330 56 279 56 279 1 330 1</string>
+            </dict>
+            <key>RRGPlayer/enchantBox/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6,40.5}</string>
+                <key>spriteSize</key>
+                <string>{117,138}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,518},{117,138}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 4 5 7 1 4 7 2 3 4 1 2 4 0 1 7</string>
+                <key>vertices</key>
+                <string>170 112 148 112 139 146 96 146 92 104 53 44 53 8 143 8</string>
+                <key>verticesUV</key>
+                <string>118 622 96 622 87 656 44 656 40 614 1 554 1 518 91 518</string>
+            </dict>
+            <key>RRGPlayer/enchantShield/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9.5,39}</string>
+                <key>spriteSize</key>
+                <string>{118,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,658},{118,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 7 8 1 7 0 4 6 1 4 5 6 1 2 3 4 1 3 1 6 7</string>
+                <key>vertices</key>
+                <string>186 42 151 87 139 146 96 146 68 109 73 74 89 63 92 11 186 11</string>
+                <key>verticesUV</key>
+                <string>119 689 84 734 72 793 29 793 1 756 6 721 22 710 25 658 119 658</string>
+            </dict>
+            <key>RRGPlayer/enchantStaff/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-7,44}</string>
+                <key>spriteSize</key>
+                <string>{118,166}</string>
+                <key>spriteSourceSize</key>
+                <string>{150,300}</string>
+                <key>textureRect</key>
+                <string>{{86,136},{118,166}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 5 6 2 3 4 2 4 5 1 2 5 0 1 5 0 6 7</string>
+                <key>vertices</key>
+                <string>101 44 127 141 98 155 97 189 53 178 49 135 9 88 41 23</string>
+                <key>verticesUV</key>
+                <string>178 157 204 254 175 268 174 302 130 291 126 248 86 201 118 136</string>
+            </dict>
+            <key>RRGPlayer/enchantSword/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6,60.5}</string>
+                <key>spriteSize</key>
+                <string>{116,179}</string>
+                <key>spriteSourceSize</key>
+                <string>{150,300}</string>
+                <key>textureRect</key>
+                <string>{{1,2},{116,179}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 9 10 6 7 8 0 8 9 5 6 8 0 5 8 5 2 3 5 1 2 5 0 1 5 3 4</string>
+                <key>vertices</key>
+                <string>67 37 102 42 127 134 96 179 53 179 40 125 11 93 11 65 40 41 55 11 66 0</string>
+                <key>verticesUV</key>
+                <string>57 39 92 44 117 136 86 181 43 181 30 127 1 95 1 67 30 43 45 13 56 2</string>
+            </dict>
+            <key>RRGPlayer/readScroll/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,40}</string>
+                <key>spriteSize</key>
+                <string>{95,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{93,1064},{95,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 0 4 5 1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>165 89 142 116 139 145 96 145 93 116 70 89 72 10 163 10</string>
+                <key>verticesUV</key>
+                <string>188 1143 165 1170 162 1199 119 1199 116 1170 93 1143 95 1064 186 1064</string>
+            </dict>
+            <key>RRGPlayer/readScroll/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,40}</string>
+                <key>spriteSize</key>
+                <string>{95,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{95,1201},{95,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 0 4 5 1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>165 89 142 116 139 145 96 145 93 116 70 89 72 10 163 10</string>
+                <key>verticesUV</key>
+                <string>190 1280 167 1307 164 1336 121 1336 118 1307 95 1280 97 1201 188 1201</string>
+            </dict>
+            <key>RRGPlayer/readScroll/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,40}</string>
+                <key>spriteSize</key>
+                <string>{95,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,1676},{95,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 0 4 5 4 1 2 4 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>165 89 143 116 139 145 96 145 93 116 70 89 72 10 163 10</string>
+                <key>verticesUV</key>
+                <string>96 1755 74 1782 70 1811 27 1811 24 1782 1 1755 3 1676 94 1676</string>
+            </dict>
+            <key>RRGPlayer/readScroll/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,40}</string>
+                <key>spriteSize</key>
+                <string>{95,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,1813},{95,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 0 4 5 1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>165 89 142 116 139 145 96 145 93 116 70 89 72 10 163 10</string>
+                <key>verticesUV</key>
+                <string>96 1892 73 1919 70 1948 27 1948 24 1919 1 1892 3 1813 94 1813</string>
+            </dict>
+            <key>RRGPlayer/readScroll/0005.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,40}</string>
+                <key>spriteSize</key>
+                <string>{95,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{78,1575},{95,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 0 4 5 1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>165 89 142 116 139 145 96 145 93 116 70 89 72 10 163 10</string>
+                <key>verticesUV</key>
+                <string>173 1654 150 1681 147 1710 104 1710 101 1681 78 1654 80 1575 171 1575</string>
+            </dict>
+            <key>RRGPlayer/shadow.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-18.5}</string>
+                <key>spriteSize</key>
+                <string>{62,33}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,100}</string>
+                <key>textureRect</key>
+                <string>{{1,184},{62,33}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>81 85 19 85 19 52 81 52</string>
+                <key>verticesUV</key>
+                <string>63 217 1 217 1 184 63 184</string>
+            </dict>
+            <key>RRGPlayer/state/asleep/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13.5,-7.5}</string>
+                <key>spriteSize</key>
+                <string>{37,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{201,51},{37,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>55 47 18 47 18 18 55 18</string>
+                <key>verticesUV</key>
+                <string>238 80 201 80 201 51 238 51</string>
+            </dict>
+            <key>RRGPlayer/state/asleep/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13,-5}</string>
+                <key>spriteSize</key>
+                <string>{36,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{303,122},{36,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>55 32 55 48 19 46 19 12</string>
+                <key>verticesUV</key>
+                <string>339 142 339 158 303 156 303 122</string>
+            </dict>
+            <key>RRGPlayer/state/asleep/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13.5,-6.5}</string>
+                <key>spriteSize</key>
+                <string>{37,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{184,472},{37,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>55 34 55 50 20 43 18 13</string>
+                <key>verticesUV</key>
+                <string>221 493 221 509 186 502 184 472</string>
+            </dict>
+            <key>RRGPlayer/state/asleep/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13,-5}</string>
+                <key>spriteSize</key>
+                <string>{36,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{303,122},{36,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>55 32 55 48 19 46 19 12</string>
+                <key>verticesUV</key>
+                <string>339 142 339 158 303 156 303 122</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerDecreased/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6,11}</string>
+                <key>spriteSize</key>
+                <string>{68,53}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{310,163},{68,53}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 0 2 3 0 1 2 6 7 8 5 6 8</string>
+                <key>vertices</key>
+                <string>90 27 69 53 48 27 63 1 74 0 40 49 22 49 22 1 40 1</string>
+                <key>verticesUV</key>
+                <string>378 190 357 216 336 190 351 164 362 163 328 212 310 212 310 164 328 164</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerDecreased/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,10.5}</string>
+                <key>spriteSize</key>
+                <string>{67,52}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{569,1},{67,52}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 2 3 0 2 0 1 6 7 8 5 6 8</string>
+                <key>vertices</key>
+                <string>89 27 67 53 45 20 64 3 74 2 40 49 22 49 22 1 40 1</string>
+                <key>verticesUV</key>
+                <string>636 27 614 53 592 20 611 3 621 2 587 49 569 49 569 1 587 1</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerDecreased/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{3.5,12.5}</string>
+                <key>spriteSize</key>
+                <string>{63,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{453,907},{63,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 4 7 8 6 7 4 6 4 5</string>
+                <key>vertices</key>
+                <string>44 50 22 49 22 1 33 0 85 30 69 48 45 24 64 5 85 5</string>
+                <key>verticesUV</key>
+                <string>475 957 453 956 453 908 464 907 516 937 500 955 476 931 495 912 516 912</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerDecreased/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,10.5}</string>
+                <key>spriteSize</key>
+                <string>{67,52}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{569,1},{67,52}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 2 3 0 2 0 1 6 7 8 5 6 8</string>
+                <key>vertices</key>
+                <string>89 27 67 53 45 20 64 3 74 2 40 49 22 49 22 1 40 1</string>
+                <key>verticesUV</key>
+                <string>636 27 614 53 592 20 611 3 621 2 587 49 569 49 569 1 587 1</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerIncreased/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4.5,10.5}</string>
+                <key>spriteSize</key>
+                <string>{67,54}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{45,1951},{67,54}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 0 2 3 0 1 2 6 7 8 5 6 8</string>
+                <key>vertices</key>
+                <string>41 38 30 54 21 38 29 1 33 0 88 49 50 49 50 1 88 1</string>
+                <key>verticesUV</key>
+                <string>65 1989 54 2005 45 1989 53 1952 57 1951 112 2000 74 2000 74 1952 112 1952</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerIncreased/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,8}</string>
+                <key>spriteSize</key>
+                <string>{67,57}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{245,1956},{67,57}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 0 3 4 6 7 8 5 6 8</string>
+                <key>vertices</key>
+                <string>72 3 89 23 68 58 49 23 65 2 40 49 22 49 22 1 40 1</string>
+                <key>verticesUV</key>
+                <string>295 1958 312 1978 291 2013 272 1978 288 1957 263 2004 245 2004 245 1956 263 1956</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerIncreased/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4.5,11.5}</string>
+                <key>spriteSize</key>
+                <string>{65,52}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{491,46},{65,52}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3 5 6 7 4 5 7</string>
+                <key>vertices</key>
+                <string>87 23 70 52 45 26 69 0 40 49 22 49 22 1 40 1</string>
+                <key>verticesUV</key>
+                <string>556 69 539 98 514 72 538 46 509 95 491 95 491 47 509 47</string>
+            </dict>
+            <key>RRGPlayer/state/attackPowerIncreased/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,8}</string>
+                <key>spriteSize</key>
+                <string>{67,57}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{245,1956},{67,57}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 0 3 4 6 7 8 5 6 8</string>
+                <key>vertices</key>
+                <string>72 3 89 23 68 58 49 23 65 2 40 49 22 49 22 1 40 1</string>
+                <key>verticesUV</key>
+                <string>295 1958 312 1978 291 2013 272 1978 288 1957 263 2004 245 2004 245 1956 263 1956</string>
+            </dict>
+            <key>RRGPlayer/state/blinded/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{49,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{492,144},{49,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>49 47 3 47 0 24 3 3 49 3</string>
+                <key>verticesUV</key>
+                <string>541 188 495 188 492 165 495 144 541 144</string>
+            </dict>
+            <key>RRGPlayer/state/blinded/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{49,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{680,1},{49,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>49 47 3 47 0 24 3 3 49 3</string>
+                <key>verticesUV</key>
+                <string>729 45 683 45 680 22 683 1 729 1</string>
+            </dict>
+            <key>RRGPlayer/state/blinded/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{49,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{71,908},{49,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>49 47 3 47 0 24 3 3 49 3</string>
+                <key>verticesUV</key>
+                <string>120 952 74 952 71 929 74 908 120 908</string>
+            </dict>
+            <key>RRGPlayer/state/blinded/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{49,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{680,1},{49,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>49 47 3 47 0 24 3 3 49 3</string>
+                <key>verticesUV</key>
+                <string>729 45 683 45 680 22 683 1 729 1</string>
+            </dict>
+            <key>RRGPlayer/state/bomb/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{44,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{193,326},{44,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>47 19 33 50 3 35 14 14 28 0</string>
+                <key>verticesUV</key>
+                <string>237 345 223 376 193 361 204 340 218 326</string>
+            </dict>
+            <key>RRGPlayer/state/bomb/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2.5,2.5}</string>
+                <key>spriteSize</key>
+                <string>{39,43}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{1,604},{39,43}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>47 33 32 44 8 44 8 1 33 1</string>
+                <key>verticesUV</key>
+                <string>40 636 25 647 1 647 1 604 26 604</string>
+            </dict>
+            <key>RRGPlayer/state/bomb/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{44,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{193,326},{44,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>47 19 33 50 3 35 14 14 28 0</string>
+                <key>verticesUV</key>
+                <string>237 345 223 376 193 361 204 340 218 326</string>
+            </dict>
+            <key>RRGPlayer/state/bomb/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,2.5}</string>
+                <key>spriteSize</key>
+                <string>{29,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{84,1913},{29,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>40 41 11 41 11 4 40 4</string>
+                <key>verticesUV</key>
+                <string>113 1950 84 1950 84 1913 113 1913</string>
+            </dict>
+            <key>RRGPlayer/state/confused/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0.5}</string>
+                <key>spriteSize</key>
+                <string>{91,47}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{227,494},{91,47}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 5 6 7 4 5 7 9 10 11 8 9 11 12 13 14</string>
+                <key>vertices</key>
+                <string>63 48 36 48 36 23 63 23 95 28 83 28 83 10 95 10 17 28 4 28 4 9 17 9 49 21 37 4 64 1</string>
+                <key>verticesUV</key>
+                <string>286 541 259 541 259 516 286 516 318 521 306 521 306 503 318 503 240 521 227 521 227 502 240 502 272 514 260 497 287 494</string>
+            </dict>
+            <key>RRGPlayer/state/confused/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,2}</string>
+                <key>spriteSize</key>
+                <string>{89,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{128,440},{89,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2 5 6 7 4 5 7</string>
+                <key>vertices</key>
+                <string>25 41 11 45 4 8 37 1 93 40 77 41 62 4 93 4</string>
+                <key>verticesUV</key>
+                <string>149 480 135 484 128 447 161 440 217 479 201 480 186 443 217 443</string>
+            </dict>
+            <key>RRGPlayer/state/confused/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,0}</string>
+                <key>spriteSize</key>
+                <string>{96,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{77,476},{96,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 4 5 2 3 5 1 2 5 1 5 6 0 1 6 7 8 9 7 9 10 12 13 14 11 12 14</string>
+                <key>vertices</key>
+                <string>93 30 64 26 64 48 38 48 38 24 62 24 99 3 14 9 19 28 3 31 3 7 58 17 41 17 41 2 58 2</string>
+                <key>verticesUV</key>
+                <string>167 504 138 500 138 522 112 522 112 498 136 498 173 477 88 483 93 502 77 505 77 481 132 491 115 491 115 476 132 476</string>
+            </dict>
+            <key>RRGPlayer/state/confused/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,2}</string>
+                <key>spriteSize</key>
+                <string>{89,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{128,440},{89,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2 5 6 7 4 5 7</string>
+                <key>vertices</key>
+                <string>25 41 11 45 4 8 37 1 93 40 77 41 62 4 93 4</string>
+                <key>verticesUV</key>
+                <string>149 480 135 484 128 447 161 440 217 479 201 480 186 443 217 443</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerDecreased/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,12.5}</string>
+                <key>spriteSize</key>
+                <string>{80,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{79,1379},{80,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>90 27 72 50 12 45 10 1 74 0</string>
+                <key>verticesUV</key>
+                <string>159 1406 141 1429 81 1424 79 1380 143 1379</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerDecreased/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,13}</string>
+                <key>spriteSize</key>
+                <string>{79,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{408,1},{79,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>89 27 72 47 13 47 10 3 74 2</string>
+                <key>verticesUV</key>
+                <string>487 26 470 46 411 46 408 2 472 1</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerDecreased/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5.5,11.5}</string>
+                <key>spriteSize</key>
+                <string>{85,42}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{266,985},{85,42}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>87 27 72 45 21 47 2 5 74 5</string>
+                <key>verticesUV</key>
+                <string>351 1007 336 1025 285 1027 266 985 338 985</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerDecreased/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,13}</string>
+                <key>spriteSize</key>
+                <string>{79,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{408,1},{79,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>89 27 72 47 13 47 10 3 74 2</string>
+                <key>verticesUV</key>
+                <string>487 26 470 46 411 46 408 2 472 1</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerIncreased/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,12.5}</string>
+                <key>spriteSize</key>
+                <string>{76,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{198,1},{76,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>88 49 12 49 12 1 88 1</string>
+                <key>verticesUV</key>
+                <string>274 49 198 49 198 1 274 1</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerIncreased/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5.5,12.5}</string>
+                <key>spriteSize</key>
+                <string>{89,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{195,377},{89,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>72 3 89 23 74 48 21 46 0 2</string>
+                <key>verticesUV</key>
+                <string>267 378 284 398 269 423 216 421 195 377</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerIncreased/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,12.5}</string>
+                <key>spriteSize</key>
+                <string>{77,42}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{488,1},{77,42}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2 0 3 4</string>
+                <key>vertices</key>
+                <string>73 5 87 23 74 45 13 46 10 4</string>
+                <key>verticesUV</key>
+                <string>551 2 565 20 552 42 491 43 488 1</string>
+            </dict>
+            <key>RRGPlayer/state/defensePowerIncreased/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5.5,12.5}</string>
+                <key>spriteSize</key>
+                <string>{89,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,75}</string>
+                <key>textureRect</key>
+                <string>{{195,377},{89,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>72 3 89 23 74 48 21 46 0 2</string>
+                <key>verticesUV</key>
+                <string>267 378 284 398 269 423 216 421 195 377</string>
+            </dict>
+            <key>RRGPlayer/state/dozing/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13.5,-7.5}</string>
+                <key>spriteSize</key>
+                <string>{37,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{201,51},{37,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>55 47 18 47 18 18 55 18</string>
+                <key>verticesUV</key>
+                <string>238 80 201 80 201 51 238 51</string>
+            </dict>
+            <key>RRGPlayer/state/dozing/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13,-5}</string>
+                <key>spriteSize</key>
+                <string>{36,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{303,122},{36,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>55 32 55 48 19 46 19 12</string>
+                <key>verticesUV</key>
+                <string>339 142 339 158 303 156 303 122</string>
+            </dict>
+            <key>RRGPlayer/state/dozing/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13.5,-6.5}</string>
+                <key>spriteSize</key>
+                <string>{37,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{184,472},{37,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>55 34 55 50 20 43 18 13</string>
+                <key>verticesUV</key>
+                <string>221 493 221 509 186 502 184 472</string>
+            </dict>
+            <key>RRGPlayer/state/dozing/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-13,-5}</string>
+                <key>spriteSize</key>
+                <string>{36,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{303,122},{36,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>55 32 55 48 19 46 19 12</string>
+                <key>verticesUV</key>
+                <string>339 142 339 158 303 156 303 122</string>
+            </dict>
+            <key>RRGPlayer/state/evasive/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,1.5}</string>
+                <key>spriteSize</key>
+                <string>{50,47}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{492,95},{50,47}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 2 4 6 2 3 4 1 2 6 0 1 6</string>
+                <key>vertices</key>
+                <string>46 6 50 13 48 47 2 47 0 15 7 5 26 0</string>
+                <key>verticesUV</key>
+                <string>538 101 542 108 540 142 494 142 492 110 499 100 518 95</string>
+            </dict>
+            <key>RRGPlayer/state/evasive/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,2.5}</string>
+                <key>spriteSize</key>
+                <string>{46,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{361,214},{46,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>47 9 47 45 2 45 1 9 25 0</string>
+                <key>verticesUV</key>
+                <string>407 223 407 259 362 259 361 223 385 214</string>
+            </dict>
+            <key>RRGPlayer/state/evasive/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0.5}</string>
+                <key>spriteSize</key>
+                <string>{40,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1994},{40,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>45 43 5 43 5 6 45 6</string>
+                <key>verticesUV</key>
+                <string>41 2031 1 2031 1 1994 41 1994</string>
+            </dict>
+            <key>RRGPlayer/state/evasive/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,2.5}</string>
+                <key>spriteSize</key>
+                <string>{46,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{361,214},{46,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>47 9 47 45 2 45 1 9 25 0</string>
+                <key>verticesUV</key>
+                <string>407 223 407 259 362 259 361 223 385 214</string>
+            </dict>
+            <key>RRGPlayer/state/ghost/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{30,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{158,1528},{30,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>38 16 38 50 23 50 8 27 17 5</string>
+                <key>verticesUV</key>
+                <string>188 1539 188 1573 173 1573 158 1550 167 1528</string>
+            </dict>
+            <key>RRGPlayer/state/ghost/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-4.5}</string>
+                <key>spriteSize</key>
+                <string>{30,41}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{283,535},{30,41}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>41 25 24 50 11 23 25 9</string>
+                <key>verticesUV</key>
+                <string>313 551 296 576 283 549 297 535</string>
+            </dict>
+            <key>RRGPlayer/state/ghost/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-3}</string>
+                <key>spriteSize</key>
+                <string>{18,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{209,248},{18,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>34 40 16 40 16 16 34 16</string>
+                <key>verticesUV</key>
+                <string>227 272 209 272 209 248 227 248</string>
+            </dict>
+            <key>RRGPlayer/state/ghost/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-4.5}</string>
+                <key>spriteSize</key>
+                <string>{30,41}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{283,535},{30,41}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>41 25 24 50 11 23 25 9</string>
+                <key>verticesUV</key>
+                <string>313 551 296 576 283 549 297 535</string>
+            </dict>
+            <key>RRGPlayer/state/insane/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{39,47}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{156,1421},{39,47}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>37 49 14 48 5 2 44 2</string>
+                <key>verticesUV</key>
+                <string>188 1468 165 1467 156 1421 195 1421</string>
+            </dict>
+            <key>RRGPlayer/state/insane/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6.5,0}</string>
+                <key>spriteSize</key>
+                <string>{35,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{81,765},{35,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>36 47 21 50 1 30 1 0 36 0</string>
+                <key>verticesUV</key>
+                <string>116 812 101 815 81 795 81 765 116 765</string>
+            </dict>
+            <key>RRGPlayer/state/insane/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{39,47}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{156,1421},{39,47}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>37 49 14 48 5 2 44 2</string>
+                <key>verticesUV</key>
+                <string>188 1468 165 1467 156 1421 195 1421</string>
+            </dict>
+            <key>RRGPlayer/state/insane/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,0.5}</string>
+                <key>spriteSize</key>
+                <string>{37,49}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{81,954},{37,49}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>49 13 35 49 12 49 15 0 49 0</string>
+                <key>verticesUV</key>
+                <string>118 967 104 1003 81 1003 84 954 118 954</string>
+            </dict>
+            <key>RRGPlayer/state/invincible/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{58,58}</string>
+                <key>spriteSourceSize</key>
+                <string>{60,60}</string>
+                <key>textureRect</key>
+                <string>{{70,1319},{58,58}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 0 1 4 5 6 4 2 3 4 6 2 2 6 0 0 6 7</string>
+                <key>vertices</key>
+                <string>59 28 59 34 32 59 26 59 1 32 1 26 28 1 34 1</string>
+                <key>verticesUV</key>
+                <string>128 1346 128 1352 101 1377 95 1377 70 1350 70 1344 97 1319 103 1319</string>
+            </dict>
+            <key>RRGPlayer/state/invincible/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{48,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{60,60}</string>
+                <key>textureRect</key>
+                <string>{{135,1702},{48,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>54 30 30 54 6 30 30 6</string>
+                <key>verticesUV</key>
+                <string>183 1726 159 1750 135 1726 159 1702</string>
+            </dict>
+            <key>RRGPlayer/state/invincible/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{36,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{60,60}</string>
+                <key>textureRect</key>
+                <string>{{819,1},{36,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>48 48 12 48 12 12 48 12</string>
+                <key>verticesUV</key>
+                <string>855 37 819 37 819 1 855 1</string>
+            </dict>
+            <key>RRGPlayer/state/invincible/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{48,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{60,60}</string>
+                <key>textureRect</key>
+                <string>{{135,1702},{48,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>54 30 30 54 6 30 30 6</string>
+                <key>verticesUV</key>
+                <string>183 1726 159 1750 135 1726 159 1702</string>
+            </dict>
+            <key>RRGPlayer/state/levitation/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{50,17}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{252,1797},{50,17}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>50 35 0 31 0 18 50 18</string>
+                <key>verticesUV</key>
+                <string>302 1814 252 1810 252 1797 302 1797</string>
+            </dict>
+            <key>RRGPlayer/state/levitation/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,4}</string>
+                <key>spriteSize</key>
+                <string>{44,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{306,1029},{44,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>47 31 3 31 3 11 47 11</string>
+                <key>verticesUV</key>
+                <string>350 1049 306 1049 306 1029 350 1029</string>
+            </dict>
+            <key>RRGPlayer/state/levitation/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{50,17}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{252,1797},{50,17}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>50 35 0 31 0 18 50 18</string>
+                <key>verticesUV</key>
+                <string>302 1814 252 1810 252 1797 302 1797</string>
+            </dict>
+            <key>RRGPlayer/state/levitation/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-2}</string>
+                <key>spriteSize</key>
+                <string>{50,10}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{274,973},{50,10}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>50 32 0 32 0 22 50 22</string>
+                <key>verticesUV</key>
+                <string>324 983 274 983 274 973 324 973</string>
+            </dict>
+            <key>RRGPlayer/state/ninja/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{46,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{731,1},{46,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>48 48 2 48 2 2 48 2</string>
+                <key>verticesUV</key>
+                <string>777 47 731 47 731 1 777 1</string>
+            </dict>
+            <key>RRGPlayer/state/ninja/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{42,42}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1950},{42,42}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>46 46 4 46 4 4 46 4</string>
+                <key>verticesUV</key>
+                <string>43 1992 1 1992 1 1950 43 1950</string>
+            </dict>
+            <key>RRGPlayer/state/ninja/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{779,1},{38,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>44 44 6 44 6 6 44 6</string>
+                <key>verticesUV</key>
+                <string>817 39 779 39 779 1 817 1</string>
+            </dict>
+            <key>RRGPlayer/state/ninja/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{42,42}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1950},{42,42}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>46 46 4 46 4 4 46 4</string>
+                <key>verticesUV</key>
+                <string>43 1992 1 1992 1 1950 43 1950</string>
+            </dict>
+            <key>RRGPlayer/state/poisoned/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13.5}</string>
+                <key>spriteSize</key>
+                <string>{26,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{166,1471},{26,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 46 12 46 12 2 38 2</string>
+                <key>verticesUV</key>
+                <string>192 1515 166 1515 166 1471 192 1471</string>
+            </dict>
+            <key>RRGPlayer/state/poisoned/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13}</string>
+                <key>spriteSize</key>
+                <string>{26,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{169,1321},{26,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 47 12 47 12 2 38 2</string>
+                <key>verticesUV</key>
+                <string>195 1366 169 1366 169 1321 195 1321</string>
+            </dict>
+            <key>RRGPlayer/state/poisoned/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,12}</string>
+                <key>spriteSize</key>
+                <string>{26,47}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{1,135},{26,47}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 49 12 49 12 2 38 2</string>
+                <key>verticesUV</key>
+                <string>27 182 1 182 1 135 27 135</string>
+            </dict>
+            <key>RRGPlayer/state/poisoned/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13}</string>
+                <key>spriteSize</key>
+                <string>{26,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{169,1321},{26,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 47 12 47 12 2 38 2</string>
+                <key>verticesUV</key>
+                <string>195 1366 169 1366 169 1321 195 1321</string>
+            </dict>
+            <key>RRGPlayer/state/reflectMagic/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{25,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{25,30}</string>
+                <key>textureRect</key>
+                <string>{{240,51},{25,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>25 30 0 30 0 0 25 0</string>
+                <key>verticesUV</key>
+                <string>265 81 240 81 240 51 265 51</string>
+            </dict>
+            <key>RRGPlayer/state/reflectMagic/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{25,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{25,30}</string>
+                <key>textureRect</key>
+                <string>{{895,1},{25,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>25 30 0 30 0 0 25 0</string>
+                <key>verticesUV</key>
+                <string>920 31 895 31 895 1 920 1</string>
+            </dict>
+            <key>RRGPlayer/state/reflectMagic/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{25,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{25,30}</string>
+                <key>textureRect</key>
+                <string>{{91,818},{25,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>25 30 0 30 0 0 25 0</string>
+                <key>verticesUV</key>
+                <string>116 848 91 848 91 818 116 818</string>
+            </dict>
+            <key>RRGPlayer/state/reflectMagic/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{25,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{25,30}</string>
+                <key>textureRect</key>
+                <string>{{99,1712},{25,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>25 30 0 30 0 0 25 0</string>
+                <key>verticesUV</key>
+                <string>124 1742 99 1742 99 1712 124 1712</string>
+            </dict>
+            <key>RRGPlayer/state/resurrection/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0.5}</string>
+                <key>spriteSize</key>
+                <string>{30,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{103,524},{30,31}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>40 40 10 40 10 9 40 9</string>
+                <key>verticesUV</key>
+                <string>133 555 103 555 103 524 133 524</string>
+            </dict>
+            <key>RRGPlayer/state/resurrection/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{32,32}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{401,166},{32,32}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>41 41 9 41 9 9 41 9</string>
+                <key>verticesUV</key>
+                <string>433 198 401 198 401 166 433 166</string>
+            </dict>
+            <key>RRGPlayer/state/resurrection/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0.5}</string>
+                <key>spriteSize</key>
+                <string>{30,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{103,524},{30,31}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>40 40 10 40 10 9 40 9</string>
+                <key>verticesUV</key>
+                <string>133 555 103 555 103 524 133 524</string>
+            </dict>
+            <key>RRGPlayer/state/resurrection/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3.5,-1}</string>
+                <key>spriteSize</key>
+                <string>{35,34}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{2,1},{35,34}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>39 10 39 29 25 43 4 22 14 9</string>
+                <key>verticesUV</key>
+                <string>37 2 37 21 23 35 2 14 12 1</string>
+            </dict>
+            <key>RRGPlayer/state/sealed/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{50,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{288,916},{50,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 9 10 7 8 9 1 7 10 6 4 5 6 7 4 1 2 3 1 3 4 1 4 7 0 1 10</string>
+                <key>vertices</key>
+                <string>50 7 35 28 50 43 43 50 22 35 7 50 0 43 15 22 0 7 7 0 43 0</string>
+                <key>verticesUV</key>
+                <string>338 923 323 944 338 959 331 966 310 951 295 966 288 959 303 938 288 923 295 916 331 916</string>
+            </dict>
+            <key>RRGPlayer/state/sealed/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{50,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{628,1},{50,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 9 10 7 8 9 1 7 10 6 4 5 6 7 4 1 2 3 1 3 4 1 4 7 0 1 10</string>
+                <key>vertices</key>
+                <string>50 7 35 28 50 43 43 50 22 35 7 50 0 43 15 22 0 7 7 0 43 0</string>
+                <key>verticesUV</key>
+                <string>678 8 663 29 678 44 671 51 650 36 635 51 628 44 643 23 628 8 635 1 671 1</string>
+            </dict>
+            <key>RRGPlayer/state/sealed/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{50,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{160,1368},{50,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 9 10 7 8 9 1 7 10 6 4 5 6 7 4 1 2 3 1 3 4 1 4 7 0 1 10</string>
+                <key>vertices</key>
+                <string>50 7 35 28 50 43 43 50 22 35 7 50 0 43 15 22 0 7 7 0 43 0</string>
+                <key>verticesUV</key>
+                <string>210 1375 195 1396 210 1411 203 1418 182 1403 167 1418 160 1411 175 1390 160 1375 167 1368 203 1368</string>
+            </dict>
+            <key>RRGPlayer/state/sealed/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{50,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{628,1},{50,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 9 10 7 8 9 1 7 10 6 4 5 6 7 4 1 2 3 1 3 4 1 4 7 0 1 10</string>
+                <key>vertices</key>
+                <string>50 7 35 28 50 43 43 50 22 35 7 50 0 43 15 22 0 7 7 0 43 0</string>
+                <key>verticesUV</key>
+                <string>678 8 663 29 678 44 671 51 650 36 635 51 628 44 643 23 628 8 635 1 671 1</string>
+            </dict>
+            <key>RRGPlayer/state/seeInvisible/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0.5}</string>
+                <key>spriteSize</key>
+                <string>{49,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{59,1},{49,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 4 5 2 3 4 0 1 2 0 2 5</string>
+                <key>vertices</key>
+                <string>49 18 49 33 23 43 0 32 1 19 22 6</string>
+                <key>verticesUV</key>
+                <string>108 13 108 28 82 38 59 27 60 14 81 1</string>
+            </dict>
+            <key>RRGPlayer/state/seeInvisible/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,2.5}</string>
+                <key>spriteSize</key>
+                <string>{49,23}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{203,824},{49,23}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>49 22 49 34 2 34 0 22 26 11</string>
+                <key>verticesUV</key>
+                <string>252 835 252 847 205 847 203 835 229 824</string>
+            </dict>
+            <key>RRGPlayer/state/seeInvisible/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{48,8}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{93,642},{48,8}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>49 29 1 29 1 21 49 21</string>
+                <key>verticesUV</key>
+                <string>141 650 93 650 93 642 141 642</string>
+            </dict>
+            <key>RRGPlayer/state/seeInvisible/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,2.5}</string>
+                <key>spriteSize</key>
+                <string>{49,23}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{203,824},{49,23}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>49 22 49 34 2 34 0 22 26 11</string>
+                <key>verticesUV</key>
+                <string>252 835 252 847 205 847 203 835 229 824</string>
+            </dict>
+            <key>RRGPlayer/state/speedDecreased/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13}</string>
+                <key>spriteSize</key>
+                <string>{20,43}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{254,805},{20,43}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 46 15 46 15 3 35 3</string>
+                <key>verticesUV</key>
+                <string>274 848 254 848 254 805 274 805</string>
+            </dict>
+            <key>RRGPlayer/state/speedDecreased/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13}</string>
+                <key>spriteSize</key>
+                <string>{18,39}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{203,197},{18,39}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>34 44 16 44 16 5 34 5</string>
+                <key>verticesUV</key>
+                <string>221 236 203 236 203 197 221 197</string>
+            </dict>
+            <key>RRGPlayer/state/speedDecreased/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13}</string>
+                <key>spriteSize</key>
+                <string>{16,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{176,1162},{16,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>33 43 17 43 17 6 33 6</string>
+                <key>verticesUV</key>
+                <string>192 1199 176 1199 176 1162 192 1162</string>
+            </dict>
+            <key>RRGPlayer/state/speedDecreased/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,13}</string>
+                <key>spriteSize</key>
+                <string>{18,39}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,75}</string>
+                <key>textureRect</key>
+                <string>{{203,197},{18,39}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>34 44 16 44 16 5 34 5</string>
+                <key>verticesUV</key>
+                <string>221 236 203 236 203 197 221 197</string>
+            </dict>
+            <key>RRGPlayer/state/stuck/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{41,43}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{220,447},{41,43}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 4 5 1 2 3 0 1 3 0 3 5</string>
+                <key>vertices</key>
+                <string>41 14 44 34 29 49 9 40 3 14 20 6</string>
+                <key>verticesUV</key>
+                <string>258 455 261 475 246 490 226 481 220 455 237 447</string>
+            </dict>
+            <key>RRGPlayer/state/stuck/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{41,43}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{220,447},{41,43}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 4 5 1 2 3 0 1 3 0 3 5</string>
+                <key>vertices</key>
+                <string>41 14 44 34 29 49 9 40 3 14 20 6</string>
+                <key>verticesUV</key>
+                <string>258 455 261 475 246 490 226 481 220 455 237 447</string>
+            </dict>
+            <key>RRGPlayer/state/stuck/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{36,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{857,1},{36,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>42 44 6 44 6 9 42 9</string>
+                <key>verticesUV</key>
+                <string>893 36 857 36 857 1 893 1</string>
+            </dict>
+            <key>RRGPlayer/state/stuck/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{41,43}</string>
+                <key>spriteSourceSize</key>
+                <string>{50,50}</string>
+                <key>textureRect</key>
+                <string>{{220,447},{41,43}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 4 5 1 2 3 0 1 3 0 3 5</string>
+                <key>vertices</key>
+                <string>41 14 44 34 29 49 9 40 3 14 20 6</string>
+                <key>verticesUV</key>
+                <string>258 455 261 475 246 490 226 481 220 455 237 447</string>
+            </dict>
+            <key>RRGPlayer/throw/east/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,36}</string>
+                <key>spriteSize</key>
+                <string>{62,145}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{241,1812},{62,145}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>149 13 149 135 128 154 87 145 93 9</string>
+                <key>verticesUV</key>
+                <string>303 1816 303 1938 282 1957 241 1948 247 1812</string>
+            </dict>
+            <key>RRGPlayer/throw/east/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,36.5}</string>
+                <key>spriteSize</key>
+                <string>{73,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{175,1716},{73,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>154 14 161 94 143 153 88 152 99 9</string>
+                <key>verticesUV</key>
+                <string>241 1721 248 1801 230 1860 175 1859 186 1716</string>
+            </dict>
+            <key>RRGPlayer/throw/north/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,39.5}</string>
+                <key>spriteSize</key>
+                <string>{109,136}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{198,543},{109,136}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 1 5 7 4 5 1 1 2 3 4 1 3 0 1 7</string>
+                <key>vertices</key>
+                <string>169 100 141 108 141 146 96 144 60 99 89 56 88 10 141 10</string>
+                <key>verticesUV</key>
+                <string>307 633 279 641 279 679 234 677 198 632 227 589 226 543 279 543</string>
+            </dict>
+            <key>RRGPlayer/throw/north/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3.5,39.5}</string>
+                <key>spriteSize</key>
+                <string>{96,134}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{189,991},{96,134}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 1 3 4 4 5 1 1 2 3 0 1 5 0 5 7</string>
+                <key>vertices</key>
+                <string>162 69 147 100 143 144 88 145 66 100 87 52 87 11 143 11</string>
+                <key>verticesUV</key>
+                <string>285 1049 270 1080 266 1124 211 1125 189 1080 210 1032 210 991 266 991</string>
+            </dict>
+            <key>RRGPlayer/throw/northeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,35.5}</string>
+                <key>spriteSize</key>
+                <string>{96,148}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,795},{96,148}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 4 2 3 4 5 2 2 5 7 0 1 2 0 2 7</string>
+                <key>vertices</key>
+                <string>155 18 172 110 143 119 142 156 100 143 76 99 84 17 120 8</string>
+                <key>verticesUV</key>
+                <string>80 805 97 897 68 906 67 943 25 930 1 886 9 804 45 795</string>
+            </dict>
+            <key>RRGPlayer/throw/northeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{14.5,38}</string>
+                <key>spriteSize</key>
+                <string>{112,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,371},{112,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 7 8 1 3 6 3 4 5 3 5 6 1 2 3 1 6 7 0 1 8</string>
+                <key>vertices</key>
+                <string>162 18 159 52 188 82 135 114 153 151 99 146 76 100 88 16 121 8</string>
+                <key>verticesUV</key>
+                <string>87 381 84 415 113 445 60 477 78 514 24 509 1 463 13 379 46 371</string>
+            </dict>
+            <key>RRGPlayer/throw/northwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,36}</string>
+                <key>spriteSize</key>
+                <string>{73,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{428,1394},{73,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>151 15 151 139 82 155 78 20 107 8</string>
+                <key>verticesUV</key>
+                <string>501 1401 501 1525 432 1541 428 1406 457 1394</string>
+            </dict>
+            <key>RRGPlayer/throw/northwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4,42}</string>
+                <key>spriteSize</key>
+                <string>{81,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{93,1741},{81,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 1 2 3 4 1 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>143 14 154 137 110 149 82 141 73 22 109 2</string>
+                <key>verticesUV</key>
+                <string>163 1753 174 1876 130 1888 102 1880 93 1761 129 1741</string>
+            </dict>
+            <key>RRGPlayer/throw/south/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,36}</string>
+                <key>spriteSize</key>
+                <string>{104,141}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{113,505},{104,141}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 3 1 2 3 0 1</string>
+                <key>vertices</key>
+                <string>168 104 140 147 99 152 64 100 90 52 90 12 141 11</string>
+                <key>verticesUV</key>
+                <string>217 598 189 641 148 646 113 594 139 546 139 506 190 505</string>
+            </dict>
+            <key>RRGPlayer/throw/south/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,33.5}</string>
+                <key>spriteSize</key>
+                <string>{98,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{355,717},{98,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 3 1 2 3 0 1</string>
+                <key>vertices</key>
+                <string>167 102 140 149 95 155 69 80 88 55 89 13 144 13</string>
+                <key>verticesUV</key>
+                <string>453 806 426 853 381 859 355 784 374 759 375 717 430 717</string>
+            </dict>
+            <key>RRGPlayer/throw/southeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,38}</string>
+                <key>spriteSize</key>
+                <string>{73,151}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{430,1101},{73,151}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>156 23 153 140 113 155 83 138 83 19 137 4</string>
+                <key>verticesUV</key>
+                <string>503 1120 500 1237 460 1252 430 1235 430 1116 484 1101</string>
+            </dict>
+            <key>RRGPlayer/throw/southeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{6.5,35}</string>
+                <key>spriteSize</key>
+                <string>{78,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{347,1140},{78,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 4 0 1 1 2 3 4 1 3</string>
+                <key>vertices</key>
+                <string>163 24 151 142 113 156 85 139 86 22 125 9</string>
+                <key>verticesUV</key>
+                <string>425 1155 413 1273 375 1287 347 1270 348 1153 387 1140</string>
+            </dict>
+            <key>RRGPlayer/throw/southwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6.5,40}</string>
+                <key>spriteSize</key>
+                <string>{104,139}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{268,630},{104,139}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 4 5 6 0 6 8 2 3 4 1 2 4 6 0 1 6 1 4</string>
+                <key>vertices</key>
+                <string>149 17 163 111 137 147 82 147 98 119 59 100 81 62 81 22 107 8</string>
+                <key>verticesUV</key>
+                <string>358 639 372 733 346 769 291 769 307 741 268 722 290 684 290 644 316 630</string>
+            </dict>
+            <key>RRGPlayer/throw/southwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-9,35.5}</string>
+                <key>spriteSize</key>
+                <string>{111,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{82,295},{111,150}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 2 3 4 1 2 4 0 1 4 0 5 6</string>
+                <key>vertices</key>
+                <string>145 17 164 114 139 144 95 157 86 118 53 85 85 7</string>
+                <key>verticesUV</key>
+                <string>174 305 193 402 168 432 124 445 115 406 82 373 114 295</string>
+            </dict>
+            <key>RRGPlayer/throw/west/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5,40}</string>
+                <key>spriteSize</key>
+                <string>{71,139}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{435,1537},{71,139}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 5 6 0 4 5 0 3 4 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>148 99 134 147 89 147 94 106 77 93 82 13 145 8</string>
+                <key>verticesUV</key>
+                <string>506 1628 492 1676 447 1676 452 1635 435 1622 440 1542 503 1537</string>
+            </dict>
+            <key>RRGPlayer/throw/west/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-18.5,42.5}</string>
+                <key>spriteSize</key>
+                <string>{94,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{378,431},{94,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 5 6 3 4 5 0 3 5 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>146 97 137 147 92 147 87 103 52 67 76 18 139 3</string>
+                <key>verticesUV</key>
+                <string>472 525 463 575 418 575 413 531 378 495 402 446 465 431</string>
+            </dict>
+            <key>RRGPlayer/toumei.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0.5}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{2,2}</string>
+                <key>textureRect</key>
+                <string>{{435,166},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>0 0 1 0 1 1 0 1</string>
+                <key>verticesUV</key>
+                <string>435 166 436 166 436 167 435 167</string>
+            </dict>
+            <key>RRGPlayer/walk/east/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,40.5}</string>
+                <key>spriteSize</key>
+                <string>{61,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{436,1831},{61,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 0 3 4</string>
+                <key>vertices</key>
+                <string>147 12 147 148 100 146 88 102 86 6</string>
+                <key>verticesUV</key>
+                <string>497 1837 497 1973 450 1971 438 1927 436 1831</string>
+            </dict>
+            <key>RRGPlayer/walk/east/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,38.5}</string>
+                <key>spriteSize</key>
+                <string>{59,140}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{500,1839},{59,140}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 0 3 4</string>
+                <key>vertices</key>
+                <string>147 13 147 144 99 149 88 103 88 9</string>
+                <key>verticesUV</key>
+                <string>559 1843 559 1974 511 1979 500 1933 500 1839</string>
+            </dict>
+            <key>RRGPlayer/walk/east/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,40.5}</string>
+                <key>spriteSize</key>
+                <string>{61,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{436,1831},{61,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 0 3 4</string>
+                <key>vertices</key>
+                <string>147 12 147 148 100 146 88 102 86 6</string>
+                <key>verticesUV</key>
+                <string>497 1837 497 1973 450 1971 438 1927 436 1831</string>
+            </dict>
+            <key>RRGPlayer/walk/east/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1.5,36.5}</string>
+                <key>spriteSize</key>
+                <string>{64,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{176,1862},{64,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 1 3 4 0 1 4</string>
+                <key>vertices</key>
+                <string>147 13 151 135 127 153 87 145 88 9</string>
+                <key>verticesUV</key>
+                <string>236 1866 240 1988 216 2006 176 1998 177 1862</string>
+            </dict>
+            <key>RRGPlayer/walk/north/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2.5,40}</string>
+                <key>spriteSize</key>
+                <string>{106,133}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{378,582},{106,133}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 2 3 4 2 4 0 2 0 1</string>
+                <key>vertices</key>
+                <string>168 105 139 144 96 144 62 100 91 47 92 11 143 11</string>
+                <key>verticesUV</key>
+                <string>484 676 455 715 412 715 378 671 407 618 408 582 459 582</string>
+            </dict>
+            <key>RRGPlayer/walk/north/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,39}</string>
+                <key>spriteSize</key>
+                <string>{106,133}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{299,499},{106,133}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 1 5 7 4 5 1 1 2 3 4 1 3 0 1 7</string>
+                <key>vertices</key>
+                <string>170 113 139 119 139 145 96 145 64 102 91 41 92 12 143 12</string>
+                <key>verticesUV</key>
+                <string>405 600 374 606 374 632 331 632 299 589 326 528 327 499 378 499</string>
+            </dict>
+            <key>RRGPlayer/walk/north/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2.5,40}</string>
+                <key>spriteSize</key>
+                <string>{106,133}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{378,582},{106,133}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 2 3 4 2 4 0 2 0 1</string>
+                <key>vertices</key>
+                <string>168 105 139 144 96 144 62 100 91 47 92 11 143 11</string>
+                <key>verticesUV</key>
+                <string>484 676 455 715 412 715 378 671 407 618 408 582 459 582</string>
+            </dict>
+            <key>RRGPlayer/walk/north/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4.5,38}</string>
+                <key>spriteSize</key>
+                <string>{110,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{101,790},{110,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 2 3 4 2 4 0 2 0 1</string>
+                <key>vertices</key>
+                <string>168 105 139 147 96 143 58 100 91 46 92 12 143 12</string>
+                <key>verticesUV</key>
+                <string>211 883 182 925 139 921 101 878 134 824 135 790 186 790</string>
+            </dict>
+            <key>RRGPlayer/walk/northeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,40.5}</string>
+                <key>spriteSize</key>
+                <string>{70,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{328,1689},{70,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 2 3 0 1 2 0 3 4</string>
+                <key>vertices</key>
+                <string>152 18 152 141 120 148 82 137 82 16 120 6</string>
+                <key>verticesUV</key>
+                <string>398 1701 398 1824 366 1831 328 1820 328 1699 366 1689</string>
+            </dict>
+            <key>RRGPlayer/walk/northeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,37.5}</string>
+                <key>spriteSize</key>
+                <string>{75,146}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{425,1252},{75,146}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>152 19 152 153 86 141 77 18 120 7</string>
+                <key>verticesUV</key>
+                <string>500 1264 500 1398 434 1386 425 1263 468 1252</string>
+            </dict>
+            <key>RRGPlayer/walk/northeast/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,40.5}</string>
+                <key>spriteSize</key>
+                <string>{70,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{328,1689},{70,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 2 3 0 1 2 0 3 4</string>
+                <key>vertices</key>
+                <string>152 18 152 141 120 148 82 137 82 16 120 6</string>
+                <key>verticesUV</key>
+                <string>398 1701 398 1824 366 1831 328 1820 328 1699 366 1689</string>
+            </dict>
+            <key>RRGPlayer/walk/northeast/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,38}</string>
+                <key>spriteSize</key>
+                <string>{79,139}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{174,1578},{79,139}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 4 5 0 3 5 2 3 0 2 0 1</string>
+                <key>vertices</key>
+                <string>157 116 139 149 106 148 78 108 83 10 152 10</string>
+                <key>verticesUV</key>
+                <string>253 1684 235 1717 202 1716 174 1676 179 1578 248 1578</string>
+            </dict>
+            <key>RRGPlayer/walk/northwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,38}</string>
+                <key>spriteSize</key>
+                <string>{69,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{257,1643},{69,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 4 0 1 1 2 3 4 1 3</string>
+                <key>vertices</key>
+                <string>152 16 152 135 102 153 83 134 83 18 113 6</string>
+                <key>verticesUV</key>
+                <string>326 1653 326 1772 276 1790 257 1771 257 1655 287 1643</string>
+            </dict>
+            <key>RRGPlayer/walk/northwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,33.5}</string>
+                <key>spriteSize</key>
+                <string>{80,152}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,1367},{80,152}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 5 6 3 1 2 3 4 1 1 4 5 0 1 6</string>
+                <key>vertices</key>
+                <string>152 17 157 101 125 160 95 147 77 115 81 19 114 8</string>
+                <key>verticesUV</key>
+                <string>76 1376 81 1460 49 1519 19 1506 1 1474 5 1378 38 1367</string>
+            </dict>
+            <key>RRGPlayer/walk/northwest/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,38}</string>
+                <key>spriteSize</key>
+                <string>{69,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{257,1643},{69,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 4 0 1 1 2 3 4 1 3</string>
+                <key>vertices</key>
+                <string>152 16 152 135 102 153 83 134 83 18 113 6</string>
+                <key>verticesUV</key>
+                <string>326 1653 326 1772 276 1790 257 1771 257 1655 287 1643</string>
+            </dict>
+            <key>RRGPlayer/walk/northwest/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,40}</string>
+                <key>spriteSize</key>
+                <string>{72,139}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{399,1689},{72,139}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>152 17 152 147 84 147 80 18 114 8</string>
+                <key>verticesUV</key>
+                <string>471 1698 471 1828 403 1828 399 1699 433 1689</string>
+            </dict>
+            <key>RRGPlayer/walk/south/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4.5,39}</string>
+                <key>spriteSize</key>
+                <string>{112,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{251,362},{112,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 0 1 6 4 5 6 1 4 6 2 3 4 1 2 4 0 6 8</string>
+                <key>vertices</key>
+                <string>169 109 148 118 139 146 96 146 91 129 57 95 91 60 92 11 143 11</string>
+                <key>verticesUV</key>
+                <string>363 460 342 469 333 497 290 497 285 480 251 446 285 411 286 362 337 362</string>
+            </dict>
+            <key>RRGPlayer/walk/south/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,35}</string>
+                <key>spriteSize</key>
+                <string>{105,141}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{173,680},{105,141}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 4 5 1 1 2 3 4 1 3 0 1 5</string>
+                <key>vertices</key>
+                <string>168 107 139 137 139 153 96 144 63 101 91 41 92 12 144 12</string>
+                <key>verticesUV</key>
+                <string>278 775 249 805 249 821 206 812 173 769 201 709 202 680 254 680</string>
+            </dict>
+            <key>RRGPlayer/walk/south/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4.5,39}</string>
+                <key>spriteSize</key>
+                <string>{112,135}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{251,362},{112,135}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 0 1 6 4 5 6 1 4 6 2 3 4 1 2 4 0 6 8</string>
+                <key>vertices</key>
+                <string>169 109 148 118 139 146 96 146 91 129 57 95 91 60 92 11 143 11</string>
+                <key>verticesUV</key>
+                <string>363 460 342 469 333 497 290 497 285 480 251 446 285 411 286 362 337 362</string>
+            </dict>
+            <key>RRGPlayer/walk/south/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,36.5}</string>
+                <key>spriteSize</key>
+                <string>{107,138}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{183,850},{107,138}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>168 105 139 149 96 150 61 97 91 46 92 12 143 12</string>
+                <key>verticesUV</key>
+                <string>290 943 261 987 218 988 183 935 213 884 214 850 265 850</string>
+            </dict>
+            <key>RRGPlayer/walk/southeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,39}</string>
+                <key>spriteSize</key>
+                <string>{80,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{351,1289},{80,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 3 4 2 3 0 2 0 1</string>
+                <key>vertices</key>
+                <string>158 98 146 142 116 150 78 136 78 8 152 7</string>
+                <key>verticesUV</key>
+                <string>431 1380 419 1424 389 1432 351 1418 351 1290 425 1289</string>
+            </dict>
+            <key>RRGPlayer/walk/southeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,39.5}</string>
+                <key>spriteSize</key>
+                <string>{88,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{76,1430},{88,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 6 7 4 2 3 4 5 2 2 5 6 0 1 2 0 2 7</string>
+                <key>vertices</key>
+                <string>152 19 162 105 147 113 141 149 97 146 74 114 83 18 116 7</string>
+                <key>verticesUV</key>
+                <string>154 1442 164 1528 149 1536 143 1572 99 1569 76 1537 85 1441 118 1430</string>
+            </dict>
+            <key>RRGPlayer/walk/southeast/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,39}</string>
+                <key>spriteSize</key>
+                <string>{80,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{351,1289},{80,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 3 4 2 3 0 2 0 1</string>
+                <key>vertices</key>
+                <string>158 98 146 142 116 150 78 136 78 8 152 7</string>
+                <key>verticesUV</key>
+                <string>431 1380 419 1424 389 1432 351 1418 351 1290 425 1289</string>
+            </dict>
+            <key>RRGPlayer/walk/southeast/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,35.5}</string>
+                <key>spriteSize</key>
+                <string>{78,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{192,1431},{78,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>157 138 111 154 79 135 83 10 152 10</string>
+                <key>verticesUV</key>
+                <string>270 1559 224 1575 192 1556 196 1431 265 1431</string>
+            </dict>
+            <key>RRGPlayer/walk/southwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,39}</string>
+                <key>spriteSize</key>
+                <string>{80,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{268,1358},{80,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>157 8 157 136 119 150 89 143 77 98 83 7</string>
+                <key>verticesUV</key>
+                <string>348 1359 348 1487 310 1501 280 1494 268 1449 274 1358</string>
+            </dict>
+            <key>RRGPlayer/walk/southwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1.5,32}</string>
+                <key>spriteSize</key>
+                <string>{76,155}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,1517},{76,155}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>152 18 157 137 107 163 81 135 81 19 114 8</string>
+                <key>verticesUV</key>
+                <string>72 1527 77 1646 27 1672 1 1644 1 1528 34 1517</string>
+            </dict>
+            <key>RRGPlayer/walk/southwest/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,39}</string>
+                <key>spriteSize</key>
+                <string>{80,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{268,1358},{80,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>157 8 157 136 119 150 89 143 77 98 83 7</string>
+                <key>verticesUV</key>
+                <string>348 1359 348 1487 310 1501 280 1494 268 1449 274 1358</string>
+            </dict>
+            <key>RRGPlayer/walk/southwest/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,39.5}</string>
+                <key>spriteSize</key>
+                <string>{87,140}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{348,998},{87,140}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 1 2 4 2 3 4 0 1 4 0 4 6</string>
+                <key>vertices</key>
+                <string>152 17 161 113 139 147 95 148 74 101 81 19 114 8</string>
+                <key>verticesUV</key>
+                <string>426 1007 435 1103 413 1137 369 1138 348 1091 355 1009 388 998</string>
+            </dict>
+            <key>RRGPlayer/walk/west/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,37.5}</string>
+                <key>spriteSize</key>
+                <string>{60,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{114,1888},{60,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 2 3 0 2 0 1</string>
+                <key>vertices</key>
+                <string>147 102 136 145 87 152 88 11 147 8</string>
+                <key>verticesUV</key>
+                <string>174 1982 163 2025 114 2032 115 1891 174 1888</string>
+            </dict>
+            <key>RRGPlayer/walk/west/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,36.5}</string>
+                <key>spriteSize</key>
+                <string>{63,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{305,1833},{63,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>147 145 108 153 84 135 88 11 147 9</string>
+                <key>verticesUV</key>
+                <string>368 1969 329 1977 305 1959 309 1835 368 1833</string>
+            </dict>
+            <key>RRGPlayer/walk/west/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,37.5}</string>
+                <key>spriteSize</key>
+                <string>{60,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{114,1888},{60,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 2 3 0 2 0 1</string>
+                <key>vertices</key>
+                <string>147 102 136 145 87 152 88 11 147 8</string>
+                <key>verticesUV</key>
+                <string>174 1982 163 2025 114 2032 115 1891 174 1888</string>
+            </dict>
+            <key>RRGPlayer/walk/west/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,38}</string>
+                <key>spriteSize</key>
+                <string>{60,141}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{474,1697},{60,141}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>147 103 136 150 87 144 87 11 147 9</string>
+                <key>verticesUV</key>
+                <string>534 1791 523 1838 474 1832 474 1699 534 1697</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/east/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1.5,38.5}</string>
+                <key>spriteSize</key>
+                <string>{64,142}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{371,1832},{64,142}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 1 4 5 0 1 5</string>
+                <key>vertices</key>
+                <string>147 11 151 69 142 150 99 145 88 102 87 8</string>
+                <key>verticesUV</key>
+                <string>431 1835 435 1893 426 1974 383 1969 372 1926 371 1832</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/east/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{23.5,39}</string>
+                <key>spriteSize</key>
+                <string>{104,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{296,212},{104,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 1 4 6 1 2 3 1 3 4 1 6 7 0 1 7</string>
+                <key>vertices</key>
+                <string>149 14 153 66 183 59 193 77 155 100 147 152 89 152 91 5</string>
+                <key>verticesUV</key>
+                <string>356 221 360 273 390 266 400 284 362 307 354 359 296 359 298 212</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/east/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{24,36}</string>
+                <key>spriteSize</key>
+                <string>{93,145}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,938},{93,145}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 4 5 1 2 3 1 3 4 1 5 6 0 1 6</string>
+                <key>vertices</key>
+                <string>154 14 155 104 188 110 188 127 127 154 95 145 96 9</string>
+                <key>verticesUV</key>
+                <string>60 943 61 1033 94 1039 94 1056 33 1083 1 1074 2 938</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/north/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5.5,45}</string>
+                <key>spriteSize</key>
+                <string>{106,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{89,645},{106,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 8 9 1 7 9 5 6 7 2 7 1 5 2 3 5 3 4 2 5 7 0 1 9</string>
+                <key>vertices</key>
+                <string>165 5 165 73 143 104 139 144 96 144 88 119 59 106 91 46 92 11 157 1</string>
+                <key>verticesUV</key>
+                <string>195 649 195 717 173 748 169 788 126 788 118 763 89 750 121 690 122 655 187 645</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/north/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6,39.5}</string>
+                <key>spriteSize</key>
+                <string>{103,136}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{346,862},{103,136}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 4 2 3 5 6 2 5 2 4 1 2 6 0 1 6 0 6 8</string>
+                <key>vertices</key>
+                <string>160 34 163 96 144 116 141 146 94 144 60 99 89 55 88 10 139 10</string>
+                <key>verticesUV</key>
+                <string>446 886 449 948 430 968 427 998 380 996 346 951 375 907 374 862 425 862</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/north/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,39.5}</string>
+                <key>spriteSize</key>
+                <string>{102,134}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{99,927},{102,134}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 3 0 2 2 0 1</string>
+                <key>vertices</key>
+                <string>167 103 142 145 97 144 65 105 87 50 87 11 144 11</string>
+                <key>verticesUV</key>
+                <string>201 1019 176 1061 131 1060 99 1021 121 966 121 927 178 927</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/northeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10.5,40}</string>
+                <key>spriteSize</key>
+                <string>{92,141}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,1224},{92,141}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 2 3 4 5 2 2 5 6 1 2 6 0 1 6</string>
+                <key>vertices</key>
+                <string>174 14 174 86 151 100 146 148 82 146 82 16 119 7</string>
+                <key>verticesUV</key>
+                <string>93 1231 93 1303 70 1317 65 1365 1 1363 1 1233 38 1224</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/northeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{21,36.5}</string>
+                <key>spriteSize</key>
+                <string>{125,146}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,223},{125,146}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 9 10 7 5 6 7 8 5 1 5 8 1 4 5 1 2 3 1 3 4 1 8 10 0 1 10</string>
+                <key>vertices</key>
+                <string>155 18 166 75 188 22 201 55 166 113 152 112 138 154 100 143 76 99 84 17 119 8</string>
+                <key>verticesUV</key>
+                <string>80 233 91 290 113 237 126 270 91 328 77 327 63 369 25 358 1 314 9 232 44 223</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/northeast/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{30,36}</string>
+                <key>spriteSize</key>
+                <string>{143,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{107,1},{143,147}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 4 1 3 4 5 1 1 2 3 1 5 7 0 1 7</string>
+                <key>vertices</key>
+                <string>160 18 167 91 219 92 131 155 97 139 76 100 88 16 121 8</string>
+                <key>verticesUV</key>
+                <string>191 11 198 84 250 85 162 148 128 132 107 93 119 9 152 1</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/northwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,46}</string>
+                <key>spriteSize</key>
+                <string>{71,156}</string>
+                <key>spriteSourceSize</key>
+                <string>{150,250}</string>
+                <key>textureRect</key>
+                <string>{{274,1052},{71,156}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 4 3 4 1 3 1 2 0 4 5</string>
+                <key>vertices</key>
+                <string>110 19 110 143 66 157 40 147 39 26 77 1</string>
+                <key>verticesUV</key>
+                <string>345 1070 345 1194 301 1208 275 1198 274 1077 312 1052</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/northwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4.5,39.5}</string>
+                <key>spriteSize</key>
+                <string>{76,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{272,1503},{76,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 1 2 3 4 1 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>151 16 151 137 114 150 82 139 75 23 110 6</string>
+                <key>verticesUV</key>
+                <string>348 1513 348 1634 311 1647 279 1636 272 1520 307 1503</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/northwest/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4,39.5}</string>
+                <key>spriteSize</key>
+                <string>{81,140}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{351,1432},{81,140}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>143 12 154 136 112 148 83 142 73 91 73 8</string>
+                <key>verticesUV</key>
+                <string>421 1436 432 1560 390 1572 361 1566 351 1515 351 1432</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/south/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,39.5}</string>
+                <key>spriteSize</key>
+                <string>{100,136}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{1,1085},{100,136}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>143 11 168 105 139 146 96 146 70 90 68 10</string>
+                <key>verticesUV</key>
+                <string>76 1086 101 1180 72 1221 29 1221 3 1165 1 1085</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/south/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,36}</string>
+                <key>spriteSize</key>
+                <string>{104,141}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{347,302},{104,141}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 3 1 2 3 0 1</string>
+                <key>vertices</key>
+                <string>168 104 140 147 99 152 64 97 90 45 90 12 141 11</string>
+                <key>verticesUV</key>
+                <string>451 395 423 438 382 443 347 388 373 336 373 303 424 302</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/south/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,34}</string>
+                <key>spriteSize</key>
+                <string>{100,141}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{272,772},{100,141}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 0 4 6 3 4 0 3 1 2 3 0 1</string>
+                <key>vertices</key>
+                <string>167 102 141 147 91 154 67 106 89 43 89 13 144 13</string>
+                <key>verticesUV</key>
+                <string>372 861 346 906 296 913 272 865 294 802 294 772 349 772</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/southeast/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,36.5}</string>
+                <key>spriteSize</key>
+                <string>{75,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{432,958},{75,150}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>3 4 5 0 1 3 1 2 3 0 3 5</string>
+                <key>vertices</key>
+                <string>157 20 157 140 93 156 83 96 82 16 120 6</string>
+                <key>verticesUV</key>
+                <string>507 972 507 1092 443 1108 433 1048 432 968 470 958</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/southeast/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,38}</string>
+                <key>spriteSize</key>
+                <string>{73,151}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{273,1205},{73,151}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>156 23 153 140 113 155 83 138 83 19 137 4</string>
+                <key>verticesUV</key>
+                <string>346 1224 343 1341 303 1356 273 1339 273 1220 327 1205</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/southeast/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4.5,34.5}</string>
+                <key>spriteSize</key>
+                <string>{80,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{192,1126},{80,150}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 4 0 1 1 2 3 4 1 3</string>
+                <key>vertices</key>
+                <string>162 22 153 142 109 158 82 136 90 20 121 8</string>
+                <key>verticesUV</key>
+                <string>272 1140 263 1260 219 1276 192 1254 200 1138 231 1126</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/southwest/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-9,39}</string>
+                <key>spriteSize</key>
+                <string>{97,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{409,199},{97,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 1 2 4 2 3 4 0 1 4 0 4 5</string>
+                <key>vertices</key>
+                <string>157 17 157 136 119 150 89 143 86 122 60 80 60 9 117 7</string>
+                <key>verticesUV</key>
+                <string>506 209 506 328 468 342 438 335 435 314 409 272 409 201 466 199</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/southwest/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-22,40}</string>
+                <key>spriteSize</key>
+                <string>{135,139}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{171,94},{135,139}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 8 9 5 6 7 0 7 9 4 5 7 2 3 4 1 2 4 7 0 1 7 1 4</string>
+                <key>vertices</key>
+                <string>149 17 163 111 137 147 80 147 99 115 67 104 28 59 77 54 81 22 107 8</string>
+                <key>verticesUV</key>
+                <string>292 103 306 197 280 233 223 233 242 201 210 190 171 145 220 140 224 108 250 94</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/southwest/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-16.5,33.5}</string>
+                <key>spriteSize</key>
+                <string>{124,148}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{295,1},{124,148}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 8 9 4 6 7 4 5 6 0 7 9 1 2 4 2 3 4 7 0 1 7 1 4</string>
+                <key>vertices</key>
+                <string>145 17 163 112 139 144 94 158 85 111 53 132 39 118 75 81 77 26 101 10</string>
+                <key>verticesUV</key>
+                <string>401 8 419 103 395 135 350 149 341 102 309 123 295 109 331 72 333 17 357 1</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/west/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-8,43.5}</string>
+                <key>spriteSize</key>
+                <string>{75,148}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{195,1280},{75,148}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 5 1 4 2 3 4 1 2 4 5 0 1 0 5 7</string>
+                <key>vertices</key>
+                <string>147 1 147 102 136 146 84 148 96 104 74 72 72 6 79 0</string>
+                <key>verticesUV</key>
+                <string>270 1281 270 1382 259 1426 207 1428 219 1384 197 1352 195 1286 202 1280</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/west/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-28,39.5}</string>
+                <key>spriteSize</key>
+                <string>{117,140}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{177,235},{117,140}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 4 5 6 3 4 6 0 6 8 0 3 6 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>148 99 134 147 87 148 96 107 31 56 42 37 83 57 82 13 145 8</string>
+                <key>verticesUV</key>
+                <string>294 326 280 374 233 375 242 334 177 283 188 264 229 284 228 240 291 235</string>
+            </dict>
+            <key>RRGPlayer/waveStaff/west/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-25.5,40.5}</string>
+                <key>spriteSize</key>
+                <string>{108,140}</string>
+                <key>spriteSourceSize</key>
+                <string>{235,235}</string>
+                <key>textureRect</key>
+                <string>{{384,56},{108,140}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 8 9 4 6 7 4 5 6 0 7 9 1 2 4 2 3 4 7 0 1 7 1 4</string>
+                <key>vertices</key>
+                <string>141 24 146 97 137 147 90 147 94 114 38 114 38 97 78 69 73 18 120 7</string>
+                <key>verticesUV</key>
+                <string>487 73 492 146 483 196 436 196 440 163 384 163 384 146 424 118 419 67 466 56</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <true/>
+            <key>realTextureFileName</key>
+            <string>sprites.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,2048}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:358d166e387ee1d7513883e11a0a2ce1:1f3fb8857fac23f2cfc87cb8ddb62896:65190eda994a633aa977088176b54359$</string>
+            <key>textureFileName</key>
+            <string>sprites.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
